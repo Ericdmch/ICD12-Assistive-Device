@@ -17,7 +17,7 @@
 ---
 
 ## Project Overview
-This repository documents the iterative design process for creating an **assistive device** as part of the [Course Name] final project. The project follows a structured timeline with phases including research, ideation, prototyping, testing, and final presentation.
+This repository documents the iterative design process for creating an **assistive device** as part of the ICD 12 final project. The project follows a structured timeline with phases including research, ideation, prototyping, testing, and final presentation.
 
 **Objective:** Design and build a functional assistive device using recycled materials, laser cutting, 3D printing, and other available tools while adhering to the iterative design cycle.
 
@@ -36,8 +36,8 @@ This repository documents the iterative design process for creating an **assisti
 ---
 
 ## Deliverables
-1. **Final Prototype** (laser-cut/3D-printed components)  
-2. **Documentation** (photos, videos, CAD files, testing notes)  
+1. **Final Prototype** (3D-printed components)  
+2. **Documentation** (photos, CAD files, testing notes)  
 3. **Short Presentation** (5-minute in-class presentation)  
 4. **Longer Report/Presentation** (submitted separately for assessment)  
 5. **GitHub Repository** (this README + all design files)  
@@ -56,8 +56,8 @@ This repository documents the iterative design process for creating an **assisti
 - Concept selection  
 
 ### 3. Prototyping
-- Physical prototypes (recycled materials)  
-- Laser-cut/3D-printed components  
+- Physical prototypes
+- 3D-printed components  
 - Iterative refinements  
 
 ### 4. Testing
@@ -71,7 +71,7 @@ This repository documents the iterative design process for creating an **assisti
 
 ## Resources & Tools
 - **Materials:** Recycled materials, laser-cut acrylic/wood (max 8.5"x11"), 3D-printed parts (max 8"x8")  
-- **Tools:** Laser cutter, 3D printer, hand tools  
+- **Tools:** 3D printer, hand tools, glue  
 - **Software:** CAD tools (Fusion 360), image/video editing, Powerpoint
 
 **Note:** Consult instructor for material/tool availability.

@@ -86,7 +86,4 @@ All design iterations, testing results, and reflections are documented in this r
 - `/presentations` - Final slides and report  
 
 ![Example Prototype Image](/images/prototype.jpg)  
-*Caption: Early prototype iteration (replace with actual image)*  
-
-## License
-This project is licensed under the [Insert License, e.g., MIT License].  
+  

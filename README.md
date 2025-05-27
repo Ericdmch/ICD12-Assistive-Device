@@ -84,6 +84,4 @@ All design iterations, testing results, and reflections are documented in this r
 - `/prototypes` - Photos of physical models  
 - `/testing` - Test results and feedback  
 - `/presentations` - Final slides and report  
-
-![Example Prototype Image](/images/prototype.jpg)  
   
